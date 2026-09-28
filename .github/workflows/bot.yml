@@ -1,4 +1,4 @@
-Qname: Boton Angel
+name: Boton Angel
 on:
   schedule:
     - cron: '0 14 * * *'
