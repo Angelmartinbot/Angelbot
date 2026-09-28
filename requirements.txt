@@ -1,4 +1,4 @@
 requests
 yfinance
+pytz
 pandas
-lxml
