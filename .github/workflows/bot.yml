@@ -1,4 +1,4 @@
-name: Boton Angel
+Qname: Boton Angel
 on:
   schedule:
     - cron: '0 14 * * *'
@@ -9,7 +9,7 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    steps:
+     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
       with:
